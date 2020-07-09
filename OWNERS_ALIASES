@@ -5,3 +5,16 @@ aliases:
     - markusthoemmes
     - mattmoor
     - tcnghia
+    
+  productivity-approvers:
+  - chaodaiG
+  - chizhg
+  
+  productivity-reviewers:
+  - chaodaiG
+  - coryrc
+  - chizhg
+  - steuhs
+  - peterfeifanchen
+  - efiturri
+  - nbarthwal
